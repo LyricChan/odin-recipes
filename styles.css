@@ -1,0 +1,23 @@
+ul {
+  color: aqua;
+}
+ul li {
+  color: azure;
+}
+
+ol {
+  color: green;
+}
+
+ol li {
+  color: greenyellow;
+}
+
+img {
+  width: 350;
+  height: 350px;
+}
+
+body {
+  background-color: grey;
+}
