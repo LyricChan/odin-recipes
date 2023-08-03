@@ -16,8 +16,15 @@ ol li {
 img {
   width: 350;
   height: 350px;
+  margin: 0 auto;
 }
 
 body {
   background-color: grey;
+}
+
+ul {
+  margin: 10px auto;
+  text-align: center;
+  padding: 5px;
 }
